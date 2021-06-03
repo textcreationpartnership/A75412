@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to a scandalous letter written by Hammond, the head-gaoler in the Isle of Wight, to Mr. Lenthall, Speaker of the House of Commons. By a friend of Master Osbornes, and a lover of truth.</title>
+            <author>Friend of Master Osbornes, and a lover of truth.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75412</idno><idno type="EEBO-CITATION">99864312</idno>
+  <idno type="VID">116539</idno>
+  <idno type="EEBO-PROQUEST">2248541688</idno>
+  
+            <idno type="STC">Wing A3343</idno>
+            <idno type="STC">Thomason E452_8</idno>
+            <idno type="STC">ESTC R204854</idno>
+            <idno type="PROQUEST">99864312</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864312e"/>
+            <note>(EEBO-TCP ; phase 2, no. A75412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116539)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to a scandalous letter written by Hammond, the head-gaoler in the Isle of Wight, to Mr. Lenthall, Speaker of the House of Commons. By a friend of Master Osbornes, and a lover of truth.</title>
+                  <author>Friend of Master Osbornes, and a lover of truth.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hammond, Robert, 1621-1654. --  Colonel Hammond's letter sent to William Lenthal Esq; Speaker of the Honorable House of Commons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116539:1"/>
+            <p>
+               <hi>AN</hi> ANSWER To a scandalous LETTER WRITTEN By <hi>Hammond,</hi> the Head-Gaoler in the Isle of <hi>Wight,</hi> to Mr. <hi>Lenthall,</hi> Speaker of the House of <hi>Commons.</hi>
+            </p>
+            <p>By a Friend of Master <hi>Osbornes,</hi> and a Lover of Truth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116539:2"/>
+            <pb n="1" facs="tcp:116539:2"/>
+            <head>An Answer to a scandalous Letter, written by <hi>Hammond</hi> in the Isle of <hi>Wight,</hi> to M<seg rend="sup">r</seg>. <hi>Lenthall,</hi> Speaker of the House of Commons.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He last weeks <hi>Occurences</hi> gave me the sight of a Letter from Major Generall <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi> to the <hi>Speaker,</hi> stuffed with no lesse bombasted protestations in his own de<g ref="char:EOLhyphen"/>fence, then with unworthy Clamours a<g ref="char:EOLhyphen"/>gainst Mr. <hi>Osborne.</hi> To this, It was ex<g ref="char:EOLhyphen"/>pected M. <hi>Osbourne</hi> himself should ere this have given <hi>Answer;</hi> but I believe it was omitted as a triviall thing not worth his notice, who will make the worthy Gentle<g ref="char:EOLhyphen"/>mans <hi>Treason</hi> appear in a larger character then can be contained in so small a volume. For the same reason, and those others that M. <hi>Hammond</hi> is pleased to give in his own <hi>Letter,</hi> not to have written in his own defence, I might have spared this small pains, and have let him passe to time, to shame, whither no doubt the principles he hath set down to himself will bring him. It would not have been believed (were it not now visible) that an en<g ref="char:EOLhyphen"/>devour to free the <hi>King</hi> from <hi>Poyson,</hi> should be held such a wretched principle of unlimited wickednesse, as <hi>Hammond</hi> is pleased to call it; but you may easily discerne where<g ref="char:EOLhyphen"/>abouts the <hi>Jade</hi> was galled by wincing: You indeed M. <hi>Hammond</hi> are not yet Accused to have consented to the <hi>Poysoning,</hi> (a fault M. <hi>Rolph</hi> layes to your Charge;) you
+<pb n="2" facs="tcp:116539:3"/> have the same reason with the <hi>Silversmith,</hi> to cry out, <hi>Great is Diana of the Ephesians.</hi> For were the <hi>King</hi> out of the way, a great part of your profit were lost. Nor can any man think, that looks upon your principles, (for that he insists much upon) that he could be drawn to such villany. For to set by that which he holds <hi>in Capite,</hi> and which is so ordinarily talked of by his own <hi>Chaplaine,</hi> asserted in their vulgar writings: <hi>[That the King is the cheif Murderer, and ought therefore to die by the same meanes]</hi> he hath long since professed and divulged under his hand, that he will at any time readily performe any thing that the Houses shall Command him against his own sense and honour. Excellent and safe principles. But <hi>Hammond</hi> sent up <hi>Rolph</hi> (certainly to good purpose) to be examined; a very pretty way to clear the businesse, and give the world satisfaction: For if <hi>Traytors</hi> have their answers taken for truth, could any man doubt but their Innocence would soon be manifested? Yet so it had been, had not the providence of God preserved M. <hi>Osborne</hi> out of their hands; and he for attempting to deliver the <hi>King</hi> had been the <hi>Traytor,</hi> not <hi>Rolph</hi> for endeavouring to de<g ref="char:EOLhyphen"/>stroy him. O the strange impudence that such villaines put on, that in the midst of their execrable actions dare call God to witnesse! wherein, see if their own mouths condemne them not. <hi>Hammonds</hi> words are these, <hi>[For my own part, I should have left the clearing of my integrity to the righteous God, who, if with patience men can wait upon, and trust in him,</hi>
+               <note place="margin">As I doubt not we shall shortly see made good upon himself by Gods mercy in delivering the King, and such a Truth.</note>
+               <hi>will certainly confound and destroy that structure whose foundation is laid in Lies, with shame and sorrow to its wicked Builders.]</hi> Such a truth, that if he had not sold himself to work wickednesse, he could not possibly utter without trembling, no more then he could (as in the next Lines) boast of the <hi>Kings</hi> Justice, and yet
+<pb n="3" facs="tcp:116539:3"/> continue His <hi>Goaler.</hi> But for this, he is nothing to blame, if ye will believe him, for he would faine be rid of the im<g ref="char:EOLhyphen"/>ployment; but that the providence of God hath cast it upon him: Alas good man, what fault had he commit<g ref="char:EOLhyphen"/>ted, if he had <hi>Poysoned</hi> the <hi>King,</hi> had not that too been brought to passe by the providence of God? Sure I am, and all good people will acknowledge it, His delive<g ref="char:EOLhyphen"/>rance was by His onely means effected. But look to M. <hi>Hammonds</hi> last and grand Argument, so full of reason, as he thinks, that every man might see, though he had not said it, <hi>that M. Osbournes private interest having failed in his designe of freeing the King, must needs force him to these addresses to the House.</hi> Very well argued if we could finde where that interest lay: M. <hi>Osborne</hi> was free, and at li<g ref="char:EOLhyphen"/>berty to goe whither he would, before he gave this notice to the Houses, he is now no otherwise. Most men are of opinion that the Houses will hardly bestow any reward upon him for his Intelligence, at least it hath not hitherto appeared. So that I cannot see that any thing but the publique interest, wherein every Loyall Subject is con<g ref="char:EOLhyphen"/>cerned, The preservation of His Maj. could have drawn Him to this; and upon this ground, God, I hope, will still assist Him. And now M. <hi>Hammond,</hi> (poor weak man in<g ref="char:EOLhyphen"/>deed, except in Villany and Treason) I shall joyn with you in your request, (notwithstanding the singular art you have shewed, in serving <hi>God</hi> and <hi>Mammon,</hi> obeying the <hi>Houses,</hi> and yet paying all due observance to His <hi>Ma<g ref="char:EOLhyphen"/>jesty</hi>) that the <hi>King</hi> may be removed out of your charge, and that our petition may be granted, I shall shew some farther reason of your weaknesse: For if the scale should turne, (and tis not impossible but it may) you will to your old trade of fawning, and tell such tales of your severall masters, as will prove much to their dishonour. So true
+<pb n="4" facs="tcp:116539:4"/> an Idolater you have alwayes been to the <hi>golden Calf,</hi> that you can never faile to make your <hi>Sacrifice</hi> upon that <hi>Altar.</hi> Herein to give the Devill his due, you have been ever true to your principles, lying, and tale-bearing, an excellent art you had of playing the ear-wig, witnesse the ghost of your old Master Sir <hi>Simon Harcourt,</hi> and if the poor honour of a <hi>Colours,</hi> though too high for you, could draw you to this basenesse, what may the reward of a <hi>King</hi> bring to passe? Hang him that envies you, so it be your due, though 'twere the <hi>Gallowes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116539:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
